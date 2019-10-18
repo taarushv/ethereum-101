@@ -5,6 +5,8 @@ Download Metamask: https://chrome.google.com/webstore/detail/metamask/nkbihfbeog
 Get some free Ethers: https://faucet.rinkeby.io/ (or email me your ETH address => taarushvsk@gmail.com) <br />
 Coding environment: https://remix.ethereum.org <br />
 
+Contract address: 0x16474f8a903404cfa203c824c1694fea0c1c9b9d
+
 -------
 ## What will we be building today? 
 
